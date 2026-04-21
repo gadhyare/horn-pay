@@ -1,0 +1,11 @@
+/vendor
+.env
+composer.lock
+.phpunit.result.cache
+.idea
+.vscode
+*.log
+
+
+git config --global user.name "maxamuud xuseen"
+git config --global user.email "gadhyare3@gmail.com"
